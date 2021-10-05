@@ -9,4 +9,4 @@ I'm an Computer Science & Engineering Student with a goal-driven creative mindse
 
 Currently studying at [NSEC](https://nsec.ac.in) and working as an intern Content Creator at [GiveMeFive.ai](https://givemefive.ai).
 
-Outside work, I occasionally create games using unity.You can play My demo game [SpaceSumo](https://shreyammaity.github.io)!
+Outside work, I occasionally create games using unity.You can play My demo game [SpaceSumo](https://shreyammaity.github.io/spacesumo.github.io/)!

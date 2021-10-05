@@ -3,7 +3,7 @@ date: '1'
 title: 'Space Sumo'
 cover: 'space-sumo.png'
 github: ''
-external: 'https://shreyammaity.github.io'
+external: 'https://shreyammaity.github.io/spacesumo.github.io/'
 tech:
   - Unity
   - C#
