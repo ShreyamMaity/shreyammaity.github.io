@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://shreyam.github.io/sitemap/sitemap-index.xml
+Host: https://shreyam.github.io
