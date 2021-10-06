@@ -19,7 +19,7 @@
 
 ### TL;DR
 
-Yes, you can fork this repo. Please give proper credit by linking back to [brittanychiang.com](https://brittanychiang.com).
+Yes, you can fork this repo. Please give proper credit by linking back to [brittanychiang.com](https://brittanychiang.com).  
 If you are customizing this website , give a small credit to this repo. Thanks!
 
 ## 🛠 Installation & Set Up
@@ -52,39 +52,39 @@ If you are customizing this website , give a small credit to this repo. Thanks!
 
 1. Social Media Data:
 
-   goto -> ./src/config.js
-   enter your details
+   goto -> ./src/config.js  
+   enter your details  
 
 2. Loader :
 
-   goto -> ./src/components/icons/loader.js -> line 22
-   change position -> line 21
+   goto -> ./src/components/icons/loader.js -> line 22  
+   change position -> line 21  
 3. Logo :
-   goto -> ./src/components/icons/logo.js -> line 19
-   change position -> line 18
+   goto -> ./src/components/icons/logo.js -> line 19  
+   change position -> line 18  
 
 4. Resume :
 
-   goto -> ./static/resume.pdf
+   goto -> ./static/resume.pdf  
 
 5. Changing Website Data:
 
-   changing front page : 
-      goto -> ./content/hero/index.md
-   changing about page :
-      goto -> ./content/about/index.md
-   changing jobs:
-      goto -> ./content/jobs/
-      add folder & create index.md & paste your details
-   changing projects:
-      goto -> ./content/projects/
-      add your own .md and paste your details
-      to show in projects change bool value of showInProjects to true
-      to save in archive only  change bool value of showInProjects to false
-   changing featured projects :
-      goto -> ./content/featured/
-      add folder & create index.md , paste your details
-      add proper png files
+   changing front page :  
+      goto -> ./content/hero/index.md  
+   changing about page :  
+      goto -> ./content/about/index.md  
+   changing jobs:  
+      goto -> ./content/jobs/  
+      add folder & create index.md & paste your details  
+   changing projects:  
+      goto -> ./content/projects/  
+      add your own .md and paste your details  
+      to show in projects change bool value of showInProjects to true  
+      to save in archive only  change bool value of showInProjects to false  
+   changing featured projects :  
+      goto -> ./content/featured/  
+      add folder & create index.md , paste your details  
+      add proper png files  
 
 ## GitHub Push Instructions
 
