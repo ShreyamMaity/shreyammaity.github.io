@@ -69,19 +69,19 @@ If you are customizing this website , give a small credit to this repo. Thanks!
 
 5. Changing Website Data:
 
-   changing front page :  
+   - changing front page :  
       goto -> ./content/hero/index.md  
-   changing about page :  
+   - changing about page :  
       goto -> ./content/about/index.md  
-   changing jobs:  
+   - changing jobs:  
       goto -> ./content/jobs/  
       add folder & create index.md & paste your details  
-   changing projects:  
+   - changing projects:  
       goto -> ./content/projects/  
       add your own .md and paste your details  
       to show in projects change bool value of showInProjects to true  
       to save in archive only  change bool value of showInProjects to false  
-   changing featured projects :  
+   - changing featured projects :  
       goto -> ./content/featured/  
       add folder & create index.md , paste your details  
       add proper png files  
