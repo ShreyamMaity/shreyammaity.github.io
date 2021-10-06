@@ -58,18 +58,18 @@ If you are customizing this website , give a small credit to this repo. Thanks!
 
 1. Social Media Data :
 
-- goto -> ./src/config.js
-  - enter your details
+   - goto -> ./src/config.js
+     - enter your details
 
 2. Loader :
 
-- goto -> ./src/components/icons/loader.js -> line 22
-  - change position -> line 21
+   - goto -> ./src/components/icons/loader.js -> line 22
+     - change position -> line 21
 
 3. Logo :
 
-- goto -> ./src/components/icons/logo.js -> line 19
-  - change position -> line 18
+   - goto -> ./src/components/icons/logo.js -> line 19
+     - change position -> line 18
 
 4. Resume :
 
