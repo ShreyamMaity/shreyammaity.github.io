@@ -98,7 +98,7 @@ If you are customizing this website , give a small credit to this repo. Thanks!
 - [ ] master branch will be where the website will get deployed and hosted
 - [ ] make any changes if you want to and push to main only
 - [ ] after Depoying the website it will get pushed to master
-- [ ] to use Netlify , ![follow this](https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/)
+- [ ] to use Netlify , [follow this](https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/)
 
 ## 🚀 Building and Running for Production
 
