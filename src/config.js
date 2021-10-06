@@ -4,7 +4,7 @@ module.exports = {
   siteDescription:
     'Shreyam Maity is a Computer Science & Engineering Stuudent, who loves learning new things and helping tech beginners.',
   siteKeywords:
-    'Shreyam Maity, shreyam, maity, ShreyamMaity, software engineer, face mask, face mask detection, web developer, javascript, girlscript, jamshedpur, amdocs, bit, mesra, deoghar',
+    'Shreyam Maity, shreyam, maity, ShreyamMaity, software engineer, phishing link detector, space sumo, belnder, sanitizer dispenser, wadhwani foundation, kolkata',
   siteUrl: 'https://shreyam.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-168098181-1',
