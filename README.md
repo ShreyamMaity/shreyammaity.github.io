@@ -50,49 +50,55 @@ If you are customizing this website , give a small credit to this repo. Thanks!
 
 ## 💻 Customization 
 
-1. Social Media Data:
+1. Social Media Data :
 
-   goto -> ./src/config.js  
-   enter your details  
+  - goto -> ./src/config.js  
+    - enter your details  
 
 2. Loader :
 
-   goto -> ./src/components/icons/loader.js -> line 22  
-   change position -> line 21  
+  - goto -> ./src/components/icons/loader.js -> line 22  
+    - change position -> line 21  
 3. Logo :
-   goto -> ./src/components/icons/logo.js -> line 19  
-   change position -> line 18  
+
+  - goto -> ./src/components/icons/logo.js -> line 19  
+    - change position -> line 18  
 
 4. Resume :
 
-   goto -> ./static/resume.pdf  
+   - goto -> ./static/resume.pdf  
 
 5. Changing Website Data:
 
    - changing front page :  
-      goto -> ./content/hero/index.md  
+     - goto -> ./content/hero/index.md  
+     
    - changing about page :  
-      goto -> ./content/about/index.md  
+     - goto -> ./content/about/index.md  
+     
    - changing jobs:  
-      goto -> ./content/jobs/  
-      add folder & create index.md & paste your details  
+      - goto -> ./content/jobs/  
+        - add folder & create index.md & paste your details 
+        
    - changing projects:  
-      goto -> ./content/projects/  
-      add your own .md and paste your details  
-      to show in projects change bool value of showInProjects to true  
-      to save in archive only  change bool value of showInProjects to false  
+     - goto -> ./content/projects/  
+       - add your own .md and paste your details  
+         - to show in projects change bool value of showInProjects to true  
+           - to save in archive only  change bool value of showInProjects to false  
+           
    - changing featured projects :  
-      goto -> ./content/featured/  
-      add folder & create index.md , paste your details  
-      add proper png files  
+      - goto -> ./content/featured/  
+        - add folder & create index.md , paste your details  
+          - add proper png files  
+          
 
 ## GitHub Push Instructions
 
-- push to main branch other than master
-- master branch will be where the website will get deployed and hosted
-- make any changes if you want to and push to main only
-- after Depoying the website it will get pushed to master
-- to use Netlify , ![follow this](https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/)
+- [ ] push to main branch other than master
+- [ ] master branch will be where the website will get deployed and hosted
+- [ ] make any changes if you want to and push to main only
+- [ ] after Depoying the website it will get pushed to master
+- [ ] to use Netlify , ![follow this](https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/)
 
 ## 🚀 Building and Running for Production
 
