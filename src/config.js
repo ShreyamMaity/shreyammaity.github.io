@@ -1,5 +1,5 @@
 module.exports = {
-  LastUpdate : '5 Nov 2021',
+  LastUpdate: '5 Nov 2021',
   siteTitle: 'Shreyam Maity | Software Engineer Student',
   siteDescription:
     'Shreyam Maity is a Computer Science & Engineering Stuudent, who loves learning new things and helping tech beginners.',
@@ -8,7 +8,7 @@ module.exports = {
   siteUrl: 'https://shreyam.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-168098181-1',
-  googleVerification: 'none',
+  googleVerification: 'DrMhB8B5bwxLnTqwvPrLhJNiXnTwm-KuApyS-4Ve6cw',
   name: 'Shreyam Maity',
   location: 'Kolkata, India',
   email: 'sm8967724231@gmail.com',
