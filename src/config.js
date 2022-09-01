@@ -1,11 +1,11 @@
 module.exports = {
   LastUpdate: '5 Nov 2021',
-  siteTitle: 'Shreyam Maity | Software Engineer Student',
+  siteTitle: 'Shreyam Maity | Full Stack App Developer & Freelancer',
   siteDescription:
     'Shreyam Maity is a Computer Science & Engineering Stuudent, who loves learning new things and helping tech beginners.',
   siteKeywords:
     'Shreyam Maity, shreyam, maity, ShreyamMaity, software engineer, phishing link detector, space sumo, belnder, sanitizer dispenser, wadhwani foundation, kolkata',
-  siteUrl: 'https://shreyam.github.io/',
+  siteUrl: 'https://shreyam.dev/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-168098181-1',
   googleVerification: 'DrMhB8B5bwxLnTqwvPrLhJNiXnTwm-KuApyS-4Ve6cw',
