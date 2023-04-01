@@ -5,8 +5,6 @@ subtitle: 'I love exploring new things!'
 buttonText: 'Get In Touch!'
 ---
 
-I'm an Computer Science & Engineering Student with a goal-driven creative mindset and passion for learning and innovating.
+This is Shreyam Maity from Kolkata, West Bengal. Speaking of myself, I am an innovative mind who wants to explore everything and discover the unknown. I love exploring new technologies and creating solutions that have some impact on everyday life. I preferred to be called a problem solver rather than just a software developer. ;).
 
-Currently studying at [NSEC](https://nsec.ac.in) and working as an intern Content Creator at [GiveMeFive.ai](https://givemefive.ai).
-
-Outside work, I occasionally create games using unity.You can play My demo game [SpaceSumo](https://shreyammaity.github.io/spacesumo.github.io/)!
+Currently studying at [NSEC](https://nsec.ac.in) and working as an intern SDE at [K12 Techno Services Pvt Ltd.](https://k12technoservices.com/).

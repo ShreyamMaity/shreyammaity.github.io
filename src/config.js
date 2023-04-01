@@ -1,5 +1,5 @@
 module.exports = {
-  LastUpdate: '5 Nov 2021',
+  LastUpdate: '1 Apr 2023',
   siteTitle: 'Shreyam Maity | Full Stack App Developer & Freelancer',
   siteDescription:
     'Shreyam Maity is a Computer Science & Engineering Stuudent, who loves learning new things and helping tech beginners.',
