@@ -8,7 +8,7 @@ tech:
   - NodeJs
 
 company: ''
-showInProjects: true
+showInProjects: false
 ---
 
 My Own NPX Visitor Card.Hit 'npx shreyam' in console to connect with me.

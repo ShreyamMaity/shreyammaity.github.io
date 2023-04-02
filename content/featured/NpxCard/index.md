@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '1'
 title: 'NPX Card'
 cover: 'demo.png'
 github: 'https://github.com/ShreyamMaity/npx-card'

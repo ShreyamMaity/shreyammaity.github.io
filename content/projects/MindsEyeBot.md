@@ -9,7 +9,7 @@ tech:
   - Bootstrap
   - Python
 company: "Mind's Eye"
-showInProjects: true
+showInProjects: false
 ---
 
 This is a startup business for Wadhwani Foundation Entrepreneurship Program.

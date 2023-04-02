@@ -10,7 +10,7 @@ tech:
   - Flask
   - Docker
 company: ''
-showInProjects: True
+showInProjects: False
 ---
 
 This Project is made as Final Project of Team Cognito Cloud Computing Course Certification.

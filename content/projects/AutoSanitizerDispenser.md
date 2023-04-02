@@ -11,7 +11,7 @@ tech:
   - C
 
 company: ''
-showInProjects: true
+showInProjects: false
 ---
 
 This Project is made during Covid-19 Pandamic for helping People.

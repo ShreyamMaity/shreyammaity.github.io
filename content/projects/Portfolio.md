@@ -6,7 +6,7 @@ external: 'https://shreyam.ml/'
 tech:
   - Java Script
   - NodeJS
-showInProjects: true
+showInProjects: false
 ---
 
 Portfolio Website hosted using GitHub Pages. Updates coming soon!

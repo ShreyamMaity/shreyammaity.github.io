@@ -10,7 +10,7 @@ tech:
   - C
 
 company: ''
-showInProjects: true
+showInProjects: false
 ---
 
 Created to make an Arduino based Photoframe Gift.
