@@ -2,7 +2,7 @@
 date: '2022-07-30'
 title: 'SDE Intern'
 company: 'K12 Techno Services Pvt. Ltd'
-range: 'Jun - Present'
+range: 'Jun 2022 - May 2023'
 url: 'https://k12technoservices.com/'
 ---
 

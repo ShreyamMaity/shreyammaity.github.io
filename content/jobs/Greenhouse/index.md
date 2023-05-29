@@ -1,6 +1,6 @@
 ---
 date: '2022-02-30'
-title: 'SDE Intern'
+title: 'Tech Lead'
 company: 'GreenHouse'
 range: 'Feb - Oct 2022'
 url: 'https://greenhouse-app.com/'

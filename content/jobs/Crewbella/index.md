@@ -1,6 +1,6 @@
 ---
 date: '2022-04-30'
-title: 'SDE Intern'
+title: 'Tech Lead'
 company: 'Crewbella'
 range: 'Apr - Feb 2023'
 url: 'https://crewbella.com/'
