@@ -1,5 +1,5 @@
 # Step 1 - Build
-FROM node:14 AS builder
+FROM node:18 AS builder
 WORKDIR /app
 
 # Install the Gatsby CLI globally
