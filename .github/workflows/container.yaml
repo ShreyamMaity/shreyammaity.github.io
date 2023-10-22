@@ -7,6 +7,8 @@ on:
 jobs:
   publish-image:
     runs-on: ubuntu-latest
+    permissions:
+      packages: read
     steps:
       - uses: actions/checkout@v2
       - name: Login to GitHub Container Registry
