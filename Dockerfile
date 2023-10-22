@@ -7,7 +7,7 @@ RUN npm install -g gatsby-cli
 
 # Copy package.json and package-lock.json and install dependencies
 COPY package*.json ./
-RUN npm install
+RUN npm install -f
 
 # Copy the rest of your app's source code
 COPY . ./
