@@ -4,22 +4,12 @@ WORKDIR /app
 
 # Install the Gatsby CLI globally
 RUN npm install -g gatsby-cli
-
 # Copy package.json and package-lock.json and install dependencies
-COPY package*.json ./
+COPY . .
 RUN npm install -f
 
-# Copy the rest of your app's source code
-COPY . ./
+# Rebuild sharp and pngquant
+RUN npm rebuild sharp
+RUN npm rebuild pngquant-bin
 
-# Build the Gatsby app
-RUN gatsby build
-
-# Step 2 - Serve
-FROM gatsbyjs/gatsby:latest
-COPY --from=builder /app/public /pub
-
-# Expose the port
-EXPOSE 80
-
-CMD ["gatsby", "serve", "-H", "0.0.0.0", "-p", "80"]
+CMD ["npm", "start"]
