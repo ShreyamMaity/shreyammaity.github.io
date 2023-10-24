@@ -12,4 +12,6 @@ RUN npm install -f
 RUN npm rebuild sharp
 RUN npm rebuild pngquant-bin
 
+EXPOSE 3009
+
 CMD ["npm", "start"]
