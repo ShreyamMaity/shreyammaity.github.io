@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  portfolio:
+    build: .
+    ports:
+      - "3000:3009"
+    container_name: shreyam-portfolio
+    restart: unless-stopped
